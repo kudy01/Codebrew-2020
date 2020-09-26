@@ -1,6 +1,6 @@
 # Codebrew-2020
 
-<img src="https://drive.google.com/file/d/17bjWEilp94tXfFpu0bBsN0lS7lKo5pyx/view?usp=sharing" alt="Medicos Logo"/>
+<img src="https://ibb.co/jRCCtqP" alt="Medicos Logo"/>
 
 ## ABOUT
 
