@@ -1,6 +1,6 @@
 # Codebrew-2020
 
-<img src="https://ibb.co/jRCCtqP" alt="Medicos Logo"/>
+<img src="https://i.ibb.co/rsBB9qR/Image-26-09-20-at-9-09-PM.jpg" alt="Medicos Logo"/>
 
 ## ABOUT
 
