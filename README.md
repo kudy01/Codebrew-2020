@@ -1,4 +1,6 @@
 # Codebrew-2020
+
+<img src="https://i.imgur.com/YjG0qKb.png" alt="Parkingo Logo"/>
 ## ABOUT
 
 This project is a part of the Codebrew 2020 competition based on public health.
