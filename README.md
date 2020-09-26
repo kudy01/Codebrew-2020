@@ -1,6 +1,6 @@
 # Codebrew-2020
 
-<img src="file:///Users/kudy/Downloads/Image%2026-09-20%20at%209.09%20PM.JPG" alt="Medicos Logo"/>
+<img src="https://drive.google.com/file/d/17bjWEilp94tXfFpu0bBsN0lS7lKo5pyx/view?usp=sharing" alt="Medicos Logo"/>
 
 ## ABOUT
 
