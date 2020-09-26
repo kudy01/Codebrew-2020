@@ -1,2 +1,4 @@
 # Codebrew-2020
-A repo for the telehealth app, Medicos made by me and my team in Codebrew 2020.
+About
+
+This project is a part of the Codebrew 2020 competition based on public health.
