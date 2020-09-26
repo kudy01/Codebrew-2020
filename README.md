@@ -1,6 +1,7 @@
 # Codebrew-2020
 
-<img src="https://i.imgur.com/YjG0qKb.png" alt="Parkingo Logo"/>
+<img src="file:///Users/kudy/Downloads/Image%2026-09-20%20at%209.09%20PM.JPG" alt="Medicos Logo"/>
+
 ## ABOUT
 
 This project is a part of the Codebrew 2020 competition based on public health.
