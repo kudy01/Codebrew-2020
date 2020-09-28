@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:615034960876:android:10534e9f3a865791ee1ec9",
         "android_client_info": {
-          "package_name": "com.satyaki.medicos"
+          "package_name": "com.codebrew.medicos"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "615034960876-b5re4g4t9nl8nmmh1n547q9idiahever.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.satyaki.medicos",
+            "package_name": "com.codebrew.medicos",
             "certificate_hash": "89b480ce8e34ab6c394d0d6d45865a75df08b3a9"
           }
         },
@@ -41,7 +41,7 @@
             }
           ]
         }
-      }
+      } 
     }
   ],
   "configuration_version": "1"
